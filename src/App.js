@@ -52,7 +52,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Tam todolist </h1>
+        <h1>Tam todolist du turfu</h1>
       </header>
       <Form
         inputText={inputText}
